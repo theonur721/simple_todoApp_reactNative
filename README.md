@@ -9,7 +9,8 @@ Görev ekleme, silme ve tamamlandı olarak işaretleme özellikleri içerir.
 - Görev silme
 - Göreve tıklayarak tamamlandı olarak işaretleme (üstü çizilir)
 
+---
+
 ## 📱 Ekran Görüntüsü
 
 ![](src/assets/ekran.gif)
-# simple_todoApp_reactNative
